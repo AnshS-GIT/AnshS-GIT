@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ..
 
 
-[!][An image of @anshsgit9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshsgit9)](https://holopin.io/@anshsgit9)
+[!][An image of @anshsgit9's Holopin badges, which is a link to view their full Holopin profile(https://holopin.me/anshsgit9)](https://holopin.io/@anshsgit9)
 
 - ## 📊 GitHub Stats
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=AnshS-GIT&show_icons=true&theme=radical)
