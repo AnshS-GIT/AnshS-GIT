@@ -35,11 +35,10 @@ Email Me 👉 ✉️ **sansh2405@gmail.com** For Collaboration/Project or Anythi
 </p>
    
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakina1303&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnshS-GIT&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 </p>
    
 <div style="margin:40px 0;"></div>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
