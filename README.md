@@ -19,9 +19,8 @@ Email Me 👉 ✉️ **sansh2405@gmail.com** For Collaboration/Project or Anythi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ansh_sharma__93) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-sharma-243163314) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sansh2405@gmail.com) 
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/AnshS-GIT/AnshS-GIT/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
 </div>
 
 # 💻 Tech Stack:
